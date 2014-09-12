@@ -1,0 +1,9 @@
+8846f3198d1c2e01a1ae402bafc90daa *OpenWrt-ImageBuilder-ramips_rt305x-for-redhat-x86_64.tar.bz2
+190ff619d915dafbdc163094e91be4a7 *OpenWrt-SDK-ramips-for-redhat-x86_64-gcc-4.8-linaro_uClibc-0.9.33.2.tar.bz2
+a379cdb34c34cb851554c15f25d9c714 *OpenWrt-Toolchain-ramips-for-mipsel_24kec+dsp-gcc-4.8-linaro_uClibc-0.9.33.2.tar.bz2
+6fc943870b1667a68384a677ec40ddd1 *kernel-debug.tar.bz2
+8c14435998b96f6cb1510774928ead63 *openwrt-ramips-rt305x-hg255d-squashfs-sysupgrade.bin
+b84c881a89786bd063ec29ab4fe04ca9 *openwrt-ramips-rt305x-root.squashfs
+9fcc308ff01e895ec77e7cff1373bb57 *openwrt-ramips-rt305x-uImage.bin
+c285d056d1bd89679a051834eb3b2dc0 *openwrt-ramips-rt305x-vmlinux.bin
+1fab2644b75610c04812a443a3ac00a1 *openwrt-ramips-rt305x-vmlinux.elf
